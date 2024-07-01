@@ -1,7 +1,4 @@
-Hi, I’m @nikhilps2008
-I’m interested in Data Analytics and Data Science
-I’m currently learning Data Analytics
-I’m looking to collaborate on Data Analysis Projects
+Hi! I'm Nikhil Sreenivasan, a data analyst with a passion for data cleaning and visualization. I have a B.Tech in Mechanical Engineering and have completed a diploma and a boot camp in data analytics. I am proficient in SQL, Tableau, Microsoft PowerBI, and Microsoft Excel. I excel at creating creative and user-friendly visualizations and intuitive dashboards. My background as a CNC Programmer and Project Engineer in Mechanical Engineering complements my data analysis skills, allowing me to approach problems with a unique perspective. I am dedicated to presenting findings through dashboards that are easy to understand for both technical and non-technical audiences.
 Email me on nikhilps2008@gmail.com
 
 <!---
