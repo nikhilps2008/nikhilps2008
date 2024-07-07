@@ -2,19 +2,19 @@
 <h2 align="center">A Data Analyst with a passion for Data Cleaning and Visualization</h2>
 
 
-- 🔭 I’m currently working on **[Interactive Sales Analysis](https://github.com/nikhilps2008/Interactive-Sales-Analysis)**
+- 🔍 Currently working on **[Interactive Sales Analysis](https://github.com/nikhilps2008/Interactive-Sales-Analysis)**
 
-- 🌱 I’m currently learning **Alteryx**
+- 📊 Currently learning **Alteryx**
 
-- 👨‍💻 All of my projects are available at **https://www.https://github.com/nikhilps2008**
+- 🛠️ All of my projects are available at **https://www.https://github.com/nikhilps2008**
 
 - 💬 Ask me about **Data Analytics, MySql, Power BI, Tableau, Excel**
 
-- 📫 How to reach me **nikhilps2008@gmail.com**
+- 📧 How to reach me **nikhilps2008@gmail.com**
 
-- 📄 Know about my experiences **[https://www.linkedin.com/in/nikhil-s-6426474a/](https://www.linkedin.com/in/nikhil-s-6426474a/)**
+- 🔗 Know about my experiences **[https://www.linkedin.com/in/nikhil-s-6426474a/](https://www.linkedin.com/in/nikhil-s-6426474a/)**
 
-- ⚡ Fun fact **Turning 'data' into 'dah-ta' and making sense of it all!**
+- ✨ Fun fact **Turning 'data' into 'dah-ta' and making sense of it all!**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
