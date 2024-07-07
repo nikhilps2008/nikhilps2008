@@ -1,5 +1,44 @@
-Hi! I am Nikhil Sreenivasan, a data analyst with a passion for data cleaning and visualization. I have a B.Tech in Mechanical Engineering and have completed a diploma and a boot camp in data analytics. I am proficient in SQL, Tableau, Microsoft PowerBI, and Microsoft Excel. I excel at creating creative and user-friendly visualizations and intuitive dashboards. My background as a CNC Programmer and Project Engineer in Mechanical Engineering complements my data analysis skills, allowing me to approach problems with a unique perspective. I am dedicated to presenting findings through dashboards that are easy to understand for both technical and non-technical audiences.
-Email me on nikhilps2008@gmail.com
+<h1 align="center">Hi 👋, I am Nikhil Sreenivasan</h1>
+<h2 align="center">A Data Analyst with a passion for Data Cleaning and Visualization</h2>
+
+
+- 🔭 I’m currently working on **[Interactive Sales Analysis](https://github.com/nikhilps2008/Interactive-Sales-Analysis)**
+
+- 🌱 I’m currently learning **Alteryx**
+
+- 👨‍💻 All of my projects are available at **https://www.https://github.com/nikhilps2008**
+
+- 💬 Ask me about **Data Analytics, MySql, Power BI, Tableau, Excel**
+
+- 📫 How to reach me **nikhilps2008@gmail.com**
+
+- 📄 Know about my experiences **[https://www.linkedin.com/in/nikhil-s-6426474a/](https://www.linkedin.com/in/nikhil-s-6426474a/)**
+
+- ⚡ Fun fact **Turning 'data' into 'dah-ta' and making sense of it all!**
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/nikhilps143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilps143" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-s-6426474a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-s-6426474a/" height="30" width="40" /></a>
+<a href="https://kaggle.com/nikhilsreenivasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nikhilsreenivasan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nikhilps2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilps2008" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikhilps2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilps2008" height="30" width="40" /></a>
+</p>
+
+<h2 align="left">Skillset:</h2>
+
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL"/></a>&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel"/></a>&nbsp;&nbsp;
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau"/></a>
+</p>
+
+<div align="center" style="border: 4px solid black; padding: 20px; margin: 20px 0;">
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilps2008&" alt="GitHub Streak" />
+  </p>
+</div>
 
 <!---
 nikhilps2008/nikhilps2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
