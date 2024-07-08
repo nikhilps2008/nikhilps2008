@@ -34,9 +34,9 @@
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau"/></a>
 </p>
 
-<div align="center" style="border: 4px solid black; padding: 20px; margin: 20px 0;">
+<div align="center" style="border: 4px solid green; padding: 20px; margin: 20px 0; background-color: black;">
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilps2008&" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilps2008&theme=black-ice&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
   </p>
 </div>
 
