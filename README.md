@@ -2,7 +2,7 @@
 <h2 align="center">A Data Analyst with a passion for Data Cleaning and Visualization</h2>
 
 
-- 🔍 Currently working on **[Interactive Sales Analysis](https://github.com/nikhilps2008/Interactive-Sales-Analysis)**
+- 🔍 Currently working on **[Rental Data Analysis Canada](https://github.com/nikhilps2008/Rental-Data-Analysis-Canada)**
 
 - 📊 Currently learning **Alteryx**
 
