@@ -8,7 +8,7 @@
 
 - 🛠️ All of my projects are available at **https://www.https://github.com/nikhilps2008**
 
-- 💬 Ask me about **Data Analytics, MySql, Power BI, Tableau, Excel**
+- 💬 Ask me about **Data Analytics, MySQL, Power BI, Tableau, Excel**
 
 - 📧 How to reach me **nikhilps2008@gmail.com**
 
