@@ -2,7 +2,7 @@
 <h2 align="center">A Data Analyst with a passion for Data Cleaning and Visualization</h2>
 
 
-- 🔍 Currently working on **[Rental Data Analysis Canada](https://github.com/nikhilps2008/Rental-Data-Analysis-Canada)**
+- 🔍 Currently working on **[Crime-Collision-Rent-Study: Toronto](https://github.com/nikhilps2008/Crime_Rental_Affordability_Motor_Vehicle_Collisions_Study_Toronto/tree/main)**
 
 - 📊 Currently learning **Alteryx**
 
