@@ -7,13 +7,13 @@
 
 - 📊 Currently learning **Alteryx**
 
-- 🛠️ All of my projects are available at **[https://www.https://github.com/nikhilps2008](https://github.com/nikhilps2008)**
+- 🛠️ All of my projects are available at **[GitHub](https://github.com/nikhilps2008)**
 
 - 💬 Ask me about **Data Analytics, MySQL, Power BI, Tableau, Excel**
 
 - 📧 How to reach me **nikhilps2008@gmail.com**
 
-- 🔗 Know about my experiences **[https://www.linkedin.com/in/nikhil-s-6426474a/](https://www.linkedin.com/in/nikhil-s-6426474a/)**
+- 🔗 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/nikhil-s-6426474a/)**
 
 - ✨ Fun fact **Turning 'data' into 'dah-ta' and making sense of it all!**
 
