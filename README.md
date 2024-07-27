@@ -3,7 +3,7 @@
 
 <h2 align="left">Overview:</h2>
 
-- 🔍 Currently working on **[Crime-Collision-Rent-Study: Toronto](https://github.com/nikhilps2008/Crime_Rental_Affordability_Motor_Vehicle_Collisions_Study_Toronto/tree/main)**
+- 🔍 Currently working on **[Crime Collision Rent Study-Toronto](https://github.com/nikhilps2008/Crime_Rental_Affordability_Motor_Vehicle_Collisions_Study_Toronto/tree/main)**
 
 - 📊 Currently learning **Alteryx**
 
@@ -19,7 +19,7 @@
 
 <h2 align="left">Projects:</h2>
 
-- Crime-Collision-Rent-Study-Toronto : **[View Project](https://github.com/nikhilps2008/Crime_Rental_Affordability_Motor_Vehicle_Collisions_Study_Toronto/tree/main)**
+- Crime Collision Rent Study-Toronto : **[View Project](https://github.com/nikhilps2008/Crime_Rental_Affordability_Motor_Vehicle_Collisions_Study_Toronto/tree/main)**
 - Automated Sales Analysis : **[View Project](https://github.com/nikhilps2008/Automated-Sales-Analysis-Using-Power-BI-and-Power-Query)**
 - Heart Attack Prediction Study : **[View Project](https://github.com/nikhilps2008/Heart-Attack-Prediction-Study)**
 - Coffee Shop Sales Analysis : **[View Project](https://github.com/nikhilps2008/Coffee-Shop-Sales-Analysis)**
