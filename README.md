@@ -17,6 +17,15 @@
 
 - ✨ Fun fact **Turning 'data' into 'dah-ta' and making sense of it all!**
 
+<h2 align="left">Projects:</h2>
+
+- Crime-Collision-Rent-Study-Toronto : **[View Project](https://github.com/nikhilps2008/Crime_Rental_Affordability_Motor_Vehicle_Collisions_Study_Toronto/tree/main)**
+- Automated Sales Analysis : **[View Project](https://github.com/nikhilps2008/Automated-Sales-Analysis-Using-Power-BI-and-Power-Query)**
+- Heart Attack Prediction Study : **[View Project](https://github.com/nikhilps2008/Heart-Attack-Prediction-Study)**
+- Coffee Shop Sales Analysis : **[View Project](https://github.com/nikhilps2008/Coffee-Shop-Sales-Analysis)**
+- Data Professional Survey Breakdown : **[View Project](https://github.com/nikhilps2008/Data-Professional-Survey-Breakdown)**
+- Interactive Sales Analysis : **[View Project](https://github.com/nikhilps2008/Interactive-Sales-Analysis)**
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://twitter.com/nikhilps143" target="_blank"><img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebe06bc8437de66e41758_X-EverythingApp-Logo-Black-Twitter.jpg" alt="X Logo" height="50" width="45" /></a>
