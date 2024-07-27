@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I am Nikhil Sreenivasan</h1>
-<h2 align="center">A Data Analyst with expertise in Data Cleaning and Visualization</h2>
+![header](https://github.com/user-attachments/assets/1fae40a1-84ef-482c-8bdd-de8dea8fb5f8)
 
+
+<h2 align="left">Overview:</h2>
 
 - 🔍 Currently working on **[Crime-Collision-Rent-Study: Toronto](https://github.com/nikhilps2008/Crime_Rental_Affordability_Motor_Vehicle_Collisions_Study_Toronto/tree/main)**
 
