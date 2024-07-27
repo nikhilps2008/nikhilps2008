@@ -7,7 +7,7 @@
 
 - 📊 Currently learning **Alteryx**
 
-- 🛠️ All of my projects are available at **[GitHub](https://github.com/nikhilps2008)**
+- 🛠️ Explore my portfolio at **[Portfolio](https://nikhilps2008.github.io/)**
 
 - 💬 Ask me about **Data Analytics, MySQL, Power BI, Tableau, Excel**
 
