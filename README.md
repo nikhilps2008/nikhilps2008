@@ -7,13 +7,13 @@
 
 - 📊 Currently learning **Alteryx**
 
-- 🛠️ Explore my portfolio at **[Portfolio](https://nikhilps2008.github.io/)**
+- 🛠️ Explore my portfolio at **[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nikhilps2008.github.io/)**
 
 - 💬 Ask me about **Data Analytics, MySQL, Power BI, Tableau, Excel**
 
-- 📧 How to reach me **nikhilps2008@gmail.com**
+- 📧 How to reach me **[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nikhilps2008@gmail.com)**
 
-- 🔗 Know about my experiences **[LinkedIn](https://www.linkedin.com/in/nikhil-s-6426474a/)**
+- 🔗 Know about my experiences  **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-s-6426474a/)**
 
 - ✨ Fun fact **Turning 'data' into 'dah-ta' and making sense of it all!**
 
