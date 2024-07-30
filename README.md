@@ -38,8 +38,9 @@
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL"/></a>&nbsp;&nbsp;
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI"/></a>&nbsp;&nbsp;
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau"/>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Microsoft Excel" title="Microsoft Excel"/></a>&nbsp;&nbsp;
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" title="Tableau"/></a>
+  </a>
 </p>
 
 <div align="center" style="border: 4px solid green; padding: 20px; margin: 20px 0; background-color: black;">
