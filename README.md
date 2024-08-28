@@ -25,12 +25,6 @@
 - Coffee Shop Sales Analysis : **[View Project](https://github.com/nikhilps2008/Coffee-Shop-Sales-Analysis)**
 - Data Professional Survey Breakdown : **[View Project](https://github.com/nikhilps2008/Data-Professional-Survey-Breakdown)**
 - Interactive Sales Analysis : **[View Project](https://github.com/nikhilps2008/Interactive-Sales-Analysis)**
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="https://twitter.com/nikhilps143" target="_blank"><img align="center" src="https://cdn.prod.website-files.com/5d66bdc65e51a0d114d15891/64cebe06bc8437de66e41758_X-EverythingApp-Logo-Black-Twitter.jpg" alt="X Logo" height="50" width="45" /></a>
-  <a href="https://www.linkedin.com/in/nikhil-s-6426474a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-s-6426474a/" height="30" width="40" /></a>
-  
 </p>
 
 <h2 align="left">Skillset:</h2>
