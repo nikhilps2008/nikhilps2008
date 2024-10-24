@@ -3,9 +3,9 @@
 
 <h2 align="left">Overview:</h2>
 
-- 🔍 Currently working on **[Crime Collision Rent Study-Toronto](https://github.com/nikhilps2008/Crime_Rental_Affordability_Motor_Vehicle_Collisions_Study_Toronto/tree/main)**
+- 🔍 Currently working on **[Ontario City Safety and Housing Insights](https://github.com/nikhilps2008/Ontario-City-Safety-and-Housing-Insights.git)**
 
-- 📊 Currently learning **Alteryx**
+- 📊 Currently learning **Visio**
 
 - 🛠️ Explore my portfolio at **[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://nikhilps2008.github.io/)**
 
